@@ -1,1 +1,1 @@
-# Truco
+# Placar de Truco
